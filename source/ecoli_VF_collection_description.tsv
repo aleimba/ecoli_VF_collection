@@ -1,0 +1,1070 @@
+gene	locus tag	accession number (protein_id)	description	reference	source	class
+aap	EC042_pAA055		dispersin	Escherichia coli O44:H18 042 plasmid pAA (EAEC)	VFDB R2	Adhesion_invasion
+aatA	EC042_pAA008		dispersin secretion locus ABC transporter	Escherichia coli O44:H18 042 plasmid pAA (EAEC)	VFDB R2	Adhesion_invasion
+aatB	EC042_pAA009		dispersin secretion locus ABC transporter	Escherichia coli O44:H18 042 plasmid pAA (EAEC)	VFDB R2	Adhesion_invasion
+aatC	EC042_pAA010		dispersin secretion locus ABC transporter	Escherichia coli O44:H18 042 plasmid pAA (EAEC)	VFDB R2	Adhesion_invasion
+aatD	EC042_pAA011		dispersin secretion locus ABC transporter	Escherichia coli O44:H18 042 plasmid pAA (EAEC)	VFDB R2	Adhesion_invasion
+aatP	EC042_pAA007		dispersin secretion locus ABC transporter	Escherichia coli O44:H18 042 plasmid pAA (EAEC)	VFDB R2	Adhesion_invasion
+bmaE	ECOBMAE	AAA23523	M-agglutinin subunit	Escherichia coli IH11165	manually	Adhesion_invasion
+csgG	Z1670		curli fibers	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Adhesion_invasion
+csgF	Z1671		curli fibers	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Adhesion_invasion
+csgE	Z1672		curli fibers	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Adhesion_invasion
+csgD	Z1673		curli fibers	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Adhesion_invasion
+csgB	Z1675		curli fibers	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Adhesion_invasion
+csgA	Z1676		curli fibers	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Adhesion_invasion
+csgC	Z1677		curli fibers	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Adhesion_invasion
+hra1	ECU07174	AAC13753	heat resistant agglutinin 1	Escherichia coli O9:H10:K99 (UPEC)	manually	Adhesion_invasion
+ibeB	ECOK1_0581		invasion of brain endothelial cells	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R2	Adhesion_invasion
+ibeC	ECOK1_4427		invasion of brain endothelial cells	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R2	Adhesion_invasion
+ibeA	ECOK1_4837		invasion of brain endothelial cells	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R2	Adhesion_invasion
+iha	c3610		bifunctional enterobactin receptor/adhesin protein	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Adhesion_invasion
+nlpI	ECS88_3547		lipoprotein NlpI	Escherichia coli O45:K1:H7 S88 (MNEC)	VFDB R3	Adhesion_invasion
+ompA	Z1307		outer membrane protein A	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Adhesion_invasion
+paa	Z2053		porcine attaching-effacing associated protein	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Adhesion_invasion
+tcpC	c2398	NP_754290	TIR domain containing protein	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Adhesion_invasion
+tia	ETEC_3907		Tia/Hek, toxigenic invasion locus	Escherichia coli O78:K80:H11 H10407 (ETEC)	VFDB R3	Adhesion_invasion
+toxB	L7095		putative cytotoxin	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Adhesion_invasion
+traJ	TRAJ3_ECOLX	P13949	conjugal transfer protein TraJ	Escherichia coli	VFDB R1	Adhesion_invasion
+aatA		ADJ53351	autotransporter adhesin (AIDA-I type)	Escherichia coli DE205	manually	Autotransporter_T5SS
+aidA		CAA46156	AIDA-I (AIDA-I type)	Escherichia coli O126:H27:K12 2787 (DAEC)	VFDB R3	Autotransporter_T5SS
+cah	ECSP_1319		calcium-binding Antigen43 homologue (AIDA-I type)	Escherichia coli O157:H7 TW14359 (EHEC)	VFDB R3	Autotransporter_T5SS
+eaaA	ECED1_2484	YP_002398404	serine protease autotransporter (SPATE)	Escherichia coli O81 ED1a (NPEC)	manually	Autotransporter_T5SS
+eatA	EcE24377A_E0051		secreted serine peptidase EatA (SPATE)	Escherichia coli O139:H28 E24377A (ETEC)	VFDB R3	Autotransporter_T5SS
+ehaA	Z0402	NP_286049	beta-barrel outer membrane protein (SPATE, AIDA-I type)	Escherichia coli O157:H7 EDL933 (EHEC)	manually	Autotransporter_T5SS
+ehaB	Z0469	NP_286112	autotransporter (SPATE, AIDA-I type)	Escherichia coli O157:H7 EDL933 (EHEC)	manually	Autotransporter_T5SS
+ehaC	Z3487	NP_288807	adhesin, YafL	Escherichia coli O157:H7 EDL933 (EHEC)	manually	Autotransporter_T5SS
+ehaD	Z3948	NP_289202	ABC transporter ATP-binding protein, YpjA	Escherichia coli O157:H7 EDL933 (EHEC)	manually	Autotransporter_T5SS
+ehaG	Z5029	NP_290185	adhesin (trimeric autotransporter); positional ortholog to upaG	Escherichia coli O157:H7 EDL933 (EHEC)	manually	Autotransporter_T5SS
+ehaJ	E2348C_2704	YP_002330202	AidA autotransporter-like protein (AIDA-I type)	Escherichia coli O127:H6 E2348/69 (EPEC)	manually	Autotransporter_T5SS
+eibA	ECED1_1678	YP_002397649	immunoglobulin-binding protein from phage origin (trimeric autotransporter)	Escherichia coli O81 ED1a (NPEC)	manually	Autotransporter_T5SS
+eibC		AAF63035	immunoglobulin-binding protein EibC (trimeric autotransporter)	Escherichia coli ECOR-9	VFDB R3	Autotransporter_T5SS
+eibD		AAF63040	immunoglobulin-binding protein EibD (trimeric autotransporter)	Escherichia coli ECOR-9	VFDB R3	Autotransporter_T5SS
+eibE		AAF63045	immunoglobulin-binding protein EibE (trimeric autotransporter)	Escherichia coli ECOR-9	VFDB R3	Autotransporter_T5SS
+eibF		AAL31493	immunoglobulin-binding protein EibF (trimeric autotransporter)	Escherichia coli ECOR-2	VFDB R3	Autotransporter_T5SS
+eibG		ADJ17717	immunoglobulin binding protein (trimeric autotransporter)	Escherichia coli 393/98	VFDB R3	Autotransporter_T5SS
+epeA		AAL18821	autotransporter protease (SPATE)	Escherichia coli O113:H21 EH41 plasmid pO113 (STEC)	VFDB R3	Autotransporter_T5SS
+espC	E2348C_2915		extracellular serine protease EspC (SPATE)	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Autotransporter_T5SS
+espI		CAC39286	secreted autotransporter serine protease (SPATE)	Escherichia coli O91:H- 4797/97 (STEC)	VFDB R3	Autotransporter_T5SS
+espP	L7020		putative exoprotein-precursor (SPATE)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Autotransporter_T5SS
+etpA	ETEC_p948_0110		two-partner secreted adhesin	Escherichia coli O78:K80:H11 H10407 (ETEC)	VFDB R3	Autotransporter_T5SS
+etpB	ETEC_p948_0120		two-partner secreted adhesin	Escherichia coli O78:K80:H11 H10407 (ETEC)	VFDB R3	Autotransporter_T5SS
+flu_1	EC1303_c08880	AJF55638	antigen 43 (Ag43) (AIDA-I type)	Escherichia coli O70:H32 1303 (MPEC)	manually	Autotransporter_T5SS
+flu_2	EC1303_c11130	AJF55855	antigen 43 (Ag43) (AIDA-I type)	Escherichia coli O70:H32 1303 (MPEC)	manually	Autotransporter_T5SS
+icsA	SDY_P214	YP_406215	autotransporter, VirG	Shigella dysenteriae Sd197 plasmid pSD1_197 (Shigella)	manually	Autotransporter_T5SS
+pet	EC55989_4682		serine protease Pet precursor (plasmid-encoded toxin Pet) (SPATE)	Escherichia coli O128:H2 55989 (EAEC)	VFDB R3	Autotransporter_T5SS
+pic	EC55989_3279		serine protease Pic precursor (SPATE)	Escherichia coli O128:H2 55989 (EAEC)	VFDB R3	Autotransporter_T5SS
+saa		AAL26283	STEC autoagglutinating adhesin	Escherichia coli 98NK2 plasmid pO113 (STEC)	manually	Autotransporter_T5SS
+sat	c3619		secreted autotransporter toxin (SPATE)	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Autotransporter_T5SS
+sepA	ECOK1_0270	YP_006099515	hemoglobin-binding protease Hbp (SPATE)	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	manually	Autotransporter_T5SS
+tibA		AAD41751	adhesin/invasin tibA precursor (Glycoprotein tibA) (AIDA-I type)	Escherichia coli O78:K80:H11 H10407 (ETEC)	VFDB R3	Autotransporter_T5SS
+tsh	APECO1_O1CoBM73		temperature-sensitive hemagglutinin (SPATE)	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	VFDB R3	Autotransporter_T5SS
+upaB	ECP_0379	YP_668312	autotransporter	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Autotransporter_T5SS
+upaC	ECP_0433	YP_668363	autotransporter/pertactin	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Autotransporter_T5SS
+upaG	c4424	NP_756286	adhesin (trimeric autotransporter)	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Autotransporter_T5SS
+upaH	ECP_1410	YP_669320	autotransporter/adhesin (AIDA-I type)	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Autotransporter_T5SS
+upaI	ECP_2276	YP_670171	adhesin	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Autotransporter_T5SS
+upaJ	ECP_3703	YP_671576	hemagglutinin/invasin	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Autotransporter_T5SS
+vat	c0393	NP_752330	vacuolating autotransporter toxin, hemoglobin protease (SPATE)	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Autotransporter_T5SS
+aafD		AAD26595	aggregative adherence fimbriae AAF/II (Afa/Dr/AAF family)	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	CU_fimbriae
+aafA		AAB82330	aggregative adherence fimbriae AAF/II (Afa/Dr/AAF family)	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	CU_fimbriae
+aafB		AAD27809	aggregative adherence fimbriae AAF/II (Afa/Dr/AAF family)	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	CU_fimbriae
+aafC		AAD27810	aggregative adherence fimbriae AAF/II (Afa/Dr/AAF family)	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	CU_fimbriae
+afaA		CAW30797	afimbrial adhesin AFA-I (Afa/Dr/AAF family)	Escherichia coli O25b:H4 FV9863 (UPEC)	VFDB R3	CU_fimbriae
+afaB-I		CAW30798	afimbrial adhesin AFA-I (Afa/Dr/AAF family)	Escherichia coli O25b:H4 FV9863 (UPEC)	VFDB R3	CU_fimbriae
+afaC-I		CAW30799	afimbrial adhesin AFA-I (Afa/Dr/AAF family)	Escherichia coli O25b:H4 FV9863 (UPEC)	VFDB R3	CU_fimbriae
+afaD		CAW30800	afimbrial adhesin AFA-I (Afa/Dr/AAF family)	Escherichia coli O25b:H4 FV9863 (UPEC)	VFDB R3	CU_fimbriae
+afaE-I		CAW30801	afimbrial adhesin AFA-I (Afa/Dr/AAF family)	Escherichia coli O25b:H4 FV9863 (UPEC)	VFDB R3	CU_fimbriae
+afaF		AAK16195	afimbrial adhesin AFA-VIII (Afa/Dr/AAF family)	Escherichia coli 239 KH 89	VFDB R3	CU_fimbriae
+afaA		AAK16196	afimbrial adhesin AFA-VIII (Afa/Dr/AAF family)	Escherichia coli 239 KH 89	VFDB R3	CU_fimbriae
+afaB		AAK16197	afimbrial adhesin AFA-VIII (Afa/Dr/AAF family)	Escherichia coli 239 KH 89	VFDB R3	CU_fimbriae
+afaC-VIII		AAD44022	afimbrial adhesin AFA-VIII (Afa/Dr/AAF family)	Escherichia coli 239 KH 89	VFDB R3	CU_fimbriae
+afaD		AAD44023	afimbrial adhesin AFA-VIII (Afa/Dr/AAF family)	Escherichia coli 239 KH 89	VFDB R3	CU_fimbriae
+afaE-VIII		AAD44024	afimbrial adhesin AFA-VIII (Afa/Dr/AAF family)	Escherichia coli 239 KH 89	VFDB R3	CU_fimbriae
+afaC-VII		AAD44025	afimbrial adhesin AFA-VII (Afa/Dr/AAF family)	Escherichia coli 239 KH 89	VFDB R3	CU_fimbriae
+afaD		AAD44026	afimbrial adhesin AFA-VII (Afa/Dr/AAF family)	Escherichia coli 239 KH 89	VFDB R3	CU_fimbriae
+afaG		AAD44027	afimbrial adhesin AFA-VII (Afa/Dr/AAF family)	Escherichia coli 239 KH 89	VFDB R3	CU_fimbriae
+afaE-VII		AAD44028	afimbrial adhesin AFA-VII (Afa/Dr/AAF family)	Escherichia coli 239 KH 89	VFDB R3	CU_fimbriae
+afaE-II		CAA59767	afimbrial adhesin AFA-II (Afa/Dr/AAF family)	Escherichia coli A22	VFDB R3	CU_fimbriae
+afaF		CAA54112	afimbrial adhesin AFA-III (Afa/Dr/AAF family)	Escherichia coli A30	VFDB R3	CU_fimbriae
+afaA		CAA54113	afimbrial adhesin AFA-III (Afa/Dr/AAF family)	Escherichia coli A30	VFDB R3	CU_fimbriae
+afaB-III		CAA54115	afimbrial adhesin AFA-III (Afa/Dr/AAF family)	Escherichia coli A30	VFDB R3	CU_fimbriae
+afaC-III		CAA54117	afimbrial adhesin AFA-III (Afa/Dr/AAF family)	Escherichia coli A30	VFDB R3	CU_fimbriae
+afaD		CAA54118	afimbrial adhesin AFA-III (Afa/Dr/AAF family)	Escherichia coli A30	VFDB R3	CU_fimbriae
+afaE-III		CAA54121	afimbrial adhesin AFA-III (Afa/Dr/AAF family)	Escherichia coli A30	VFDB R3	CU_fimbriae
+afaE-V		CAA62863	afimbrial adhesin AFA-V (Afa/Dr/AAF family)	Escherichia coli AL 851	VFDB R3	CU_fimbriae
+agg3D		AAM88295	aggregative adherence fimbriae AAF/III (Afa/Dr/AAF family)	Escherichia coli O128:H2 55989 (EAEC)	VFDB R3	CU_fimbriae
+agg3C		AAM88296	aggregative adherence fimbriae AAF/III (Afa/Dr/AAF family)	Escherichia coli O128:H2 55989 (EAEC)	VFDB R3	CU_fimbriae
+agg3B		AAM88297	aggregative adherence fimbriae AAF/III (Afa/Dr/AAF family)	Escherichia coli O128:H2 55989 (EAEC)	VFDB R3	CU_fimbriae
+agg3A		AAM88298	aggregative adherence fimbriae AAF/III (Afa/Dr/AAF family)	Escherichia coli O128:H2 55989 (EAEC)	VFDB R3	CU_fimbriae
+aggD		AAA57451	aggregative adherence fimbriae AAF/I (Afa/Dr/AAF family)	Escherichia coli 17-2 (EAEC)	VFDB R3	CU_fimbriae
+aggC		AAA57452	aggregative adherence fimbriae AAF/I (Afa/Dr/AAF family)	Escherichia coli 17-2 (EAEC)	VFDB R3	CU_fimbriae
+aggB		AAA57453	aggregative adherence fimbriae AAF/I (Afa/Dr/AAF family)	Escherichia coli 17-2 (EAEC)	VFDB R3	CU_fimbriae
+aggA		AAA57454	aggregative adherence fimbriae AAF/I (Afa/Dr/AAF family)	Escherichia coli 17-2 (EAEC)	VFDB R3	CU_fimbriae
+aufA	ECS88_3825	YP_002393405	fimbrial adhesin	Escherichia coli O45:K1:H7 S88 (MNEC)	manually	CU_fimbriae
+aufB	ECS88_3824	YP_002393404	fimbrial adhesin	Escherichia coli O45:K1:H7 S88 (MNEC)	manually	CU_fimbriae
+aufC	ECS88_3823	YP_002393403	fimbrial adhesin	Escherichia coli O45:K1:H7 S88 (MNEC)	manually	CU_fimbriae
+aufD	ECS88_3822	YP_002393402	fimbrial adhesin	Escherichia coli O45:K1:H7 S88 (MNEC)	manually	CU_fimbriae
+aufE	ECS88_3821	YP_002393401	fimbrial adhesin	Escherichia coli O45:K1:H7 S88 (MNEC)	manually	CU_fimbriae
+aufF	ECS88_3820	YP_002393400	fimbrial adhesin	Escherichia coli O45:K1:H7 S88 (MNEC)	manually	CU_fimbriae
+aufG	ECS88_3819	YP_002393399	fimbrial adhesin	Escherichia coli O45:K1:H7 S88 (MNEC)	manually	CU_fimbriae
+cfaA		AAC41414	colonization factor antigen I fimbriae (CFA/I)	Escherichia coli E7473 (ETEC)	VFDB R3	CU_fimbriae
+cfaB		AAC41415	colonization factor antigen I fimbriae (CFA/I)	Escherichia coli E7473 (ETEC)	VFDB R3	CU_fimbriae
+cfaC		AAC41416	colonization factor antigen I fimbriae (CFA/I)	Escherichia coli E7473 (ETEC)	VFDB R3	CU_fimbriae
+cfaE		AAC41417	colonization factor antigen I fimbriae (CFA/I)	Escherichia coli E7473 (ETEC)	VFDB R3	CU_fimbriae
+cfaD'		AAC41418	colonization factor antigen I fimbriae (CFA/I)	Escherichia coli E7473 (ETEC)	VFDB R3	CU_fimbriae
+clpB		AAB39315	CS31A capsule-like antigen (K88 family adhesin)	Escherichia coli	VFDB R3	CU_fimbriae
+clpC		AAB39316	CS31A capsule-like antigen (K88 family adhesin)	Escherichia coli	VFDB R3	CU_fimbriae
+clpD		AAB39317	CS31A capsule-like antigen (K88 family adhesin)	Escherichia coli	VFDB R3	CU_fimbriae
+clpE		AAA23598	CS31A capsule-like antigen (K88 family adhesin)	Escherichia coli	VFDB R3	CU_fimbriae
+clpF		AAA23584	CS31A capsule-like antigen (K88 family adhesin)	Escherichia coli	VFDB R3	CU_fimbriae
+clpG		AAA23585	CS31A capsule-like antigen (K88 family adhesin)	Escherichia coli	VFDB R3	CU_fimbriae
+clpH		AAA23780	CS31A capsule-like antigen (K88 family adhesin)	Escherichia coli	VFDB R3	CU_fimbriae
+clpL		AAA23586	CS31A capsule-like antigen (K88 family adhesin)	Escherichia coli	VFDB R3	CU_fimbriae
+cooB		AAT07440	coli surface antigen CS1, CS1 pilin	Escherichia coli (ETEC)	VFDB R3	CU_fimbriae
+cooA		AAT07441	coli surface antigen CS1, CS1 pilin	Escherichia coli (ETEC)	VFDB R3	CU_fimbriae
+cooC		AAT07442	coli surface antigen CS1, CS1 pilin	Escherichia coli (ETEC)	VFDB R3	CU_fimbriae
+cooD		AAT07443	coli surface antigen CS1, CS1 pilin	Escherichia coli (ETEC)	VFDB R3	CU_fimbriae
+cotB		CAA87760	coli surface antigen CS2	Escherichia coli C91f-6	VFDB R3	CU_fimbriae
+cotA		CAA87761	coli surface antigen CS2	Escherichia coli C91f-6	VFDB R3	CU_fimbriae
+cotC		CAA87762	coli surface antigen CS2	Escherichia coli C91f-6	VFDB R3	CU_fimbriae
+cotD		CAA87763	coli surface antigen CS2	Escherichia coli C91f-6	VFDB R3	CU_fimbriae
+cs3-1		CAA34815	coli surface antigen CS3, CS3 fimbriae	Escherichia coli PB176	VFDB R3	CU_fimbriae
+cs3-2		CAA34816	coli surface antigen CS3, CS3 fimbriae	Escherichia coli PB176	VFDB R3	CU_fimbriae
+cs3-3		CAA34820	coli surface antigen CS3, CS3 fimbriae	Escherichia coli PB176	VFDB R3	CU_fimbriae
+csaA		AAK97134	coli surface antigen CS4	Escherichia coli O25:H42 E11881A (ETEC)	VFDB R3	CU_fimbriae
+csaB		AAK97135	coli surface antigen CS4	Escherichia coli O25:H42 E11881A (ETEC)	VFDB R3	CU_fimbriae
+csaC		AAK97136	coli surface antigen CS4	Escherichia coli O25:H42 E11881A (ETEC)	VFDB R3	CU_fimbriae
+csaE		AAK97137	coli surface antigen CS4	Escherichia coli O25:H42 E11881A (ETEC)	VFDB R3	CU_fimbriae
+csbB		AAS89776	coli surface antigen CS17	Escherichia coli O8:H9 WS6788A (ETEC)	VFDB R3	CU_fimbriae
+csbA		AAS89777	coli surface antigen CS17	Escherichia coli O8:H9 WS6788A (ETEC)	VFDB R3	CU_fimbriae
+csbC		AAS89778	coli surface antigen CS17	Escherichia coli O8:H9 WS6788A (ETEC)	VFDB R3	CU_fimbriae
+csbD		AAS89779	coli surface antigen CS17	Escherichia coli O8:H9 WS6788A (ETEC)	VFDB R3	CU_fimbriae
+csdB		AAQ19774	coli surface antigen CS19	Escherichia coli O114:H- WS0115A (ETEC)	VFDB R3	CU_fimbriae
+csdA		AAQ19775	coli surface antigen CS19	Escherichia coli O114:H- WS0115A (ETEC)	VFDB R3	CU_fimbriae
+csdC		AAQ19776	coli surface antigen CS19	Escherichia coli O114:H- WS0115A (ETEC)	VFDB R3	CU_fimbriae
+csdD		AAQ19777	coli surface antigen CS19	Escherichia coli O114:H- WS0115A (ETEC)	VFDB R3	CU_fimbriae
+cseA		AAD30557	coli surface antigen CS22	Escherichia coli ARG-3	VFDB R3	CU_fimbriae
+csfA		CAA11820	coli surface antigen CS5	Escherichia coli	VFDB R3	CU_fimbriae
+csfB		CAA11821	coli surface antigen CS5	Escherichia coli	VFDB R3	CU_fimbriae
+csfC		CAA11822	coli surface antigen CS5	Escherichia coli	VFDB R3	CU_fimbriae
+csfE		CAA11823	coli surface antigen CS5	Escherichia coli	VFDB R3	CU_fimbriae
+csfF		CAB40218	coli surface antigen CS5	Escherichia coli	VFDB R3	CU_fimbriae
+csfD		CAA11825	coli surface antigen CS5	Escherichia coli	VFDB R3	CU_fimbriae
+cshA		CAA50785	coli surface antigen CS13 (PCFO9) (K88 family adhesin)	Escherichia coli PE	VFDB R3	CU_fimbriae
+cshB		CAA50786	coli surface antigen CS13 (PCFO9) (K88 family adhesin)	Escherichia coli PE	VFDB R3	CU_fimbriae
+cshC		CAA50787	coli surface antigen CS13 (PCFO9) (K88 family adhesin)	Escherichia coli PE	VFDB R3	CU_fimbriae
+cshD		CAA50788	coli surface antigen CS13 (PCFO9) (K88 family adhesin)	Escherichia coli PE	VFDB R3	CU_fimbriae
+cshE		CAA50789	coli surface antigen CS13 (PCFO9) (K88 family adhesin)	Escherichia coli PE	VFDB R3	CU_fimbriae
+cshF		CAA50790	coli surface antigen CS13 (PCFO9) (K88 family adhesin)	Escherichia coli PE	VFDB R3	CU_fimbriae
+cshG		CAA50791	coli surface antigen CS13 (PCFO9) (K88 family adhesin)	Escherichia coli PE	VFDB R3	CU_fimbriae
+csnA		AAL31637	coli surface antigen CS20	Escherichia coli H721A	VFDB R3	CU_fimbriae
+cssD	EcB7A_2076		coli surface antigen CS6	Escherichia coli O148:H28 B7A (ETEC)	VFDB R3	CU_fimbriae
+cssC	EcB7A_2077		coli surface antigen CS6	Escherichia coli O148:H28 B7A (ETEC)	VFDB R3	CU_fimbriae
+cssB	EcB7A_2078		coli surface antigen CS6	Escherichia coli O148:H28 B7A (ETEC)	VFDB R3	CU_fimbriae
+cssA	EcB7A_2079		coli surface antigen CS6	Escherichia coli O148:H28 B7A (ETEC)	VFDB R3	CU_fimbriae
+csuB		AAQ20104	coli surface antigen CS14 (PFCO166)	Escherichia coli O78:H18 WS3294A (APEC)	VFDB R3	CU_fimbriae
+csuA1		AAQ20105	coli surface antigen CS14 (PFCO166)	Escherichia coli O78:H18 WS3294A (APEC)	VFDB R3	CU_fimbriae
+csuA2		AAQ20106	coli surface antigen CS14 (PFCO166)	Escherichia coli O78:H18 WS3294A (APEC)	VFDB R3	CU_fimbriae
+csuC		AAQ20107	coli surface antigen CS14 (PFCO166)	Escherichia coli O78:H18 WS3294A (APEC)	VFDB R3	CU_fimbriae
+csuD		AAQ20108	coli surface antigen CS14 (PFCO166)	Escherichia coli O78:H18 WS3294A (APEC)	VFDB R3	CU_fimbriae
+cswA		AAK09047	coli surface antigen CS12 (PCFO159)	Escherichia coli O159:H4 350C1	VFDB R3	CU_fimbriae
+cswB		AAK09048	coli surface antigen CS12 (PCFO159)	Escherichia coli O159:H4 350C1	VFDB R3	CU_fimbriae
+cswC		AAK09049	coli surface antigen CS12 (PCFO159)	Escherichia coli O159:H4 350C1	VFDB R3	CU_fimbriae
+cswD		AAK09050	coli surface antigen CS12 (PCFO159)	Escherichia coli O159:H4 350C1	VFDB R3	CU_fimbriae
+cswE		AAK09051	coli surface antigen CS12 (PCFO159)	Escherichia coli O159:H4 350C1	VFDB R3	CU_fimbriae
+cswF		AAK09052	coli surface antigen CS12 (PCFO159)	Escherichia coli O159:H4 350C1	VFDB R3	CU_fimbriae
+cswG		AAK09053	coli surface antigen CS12 (PCFO159)	Escherichia coli O159:H4 350C1	VFDB R3	CU_fimbriae
+daaC		ABU51870	F1845 fimbrial adhesin (Afa/Dr/AAF family)	Escherichia coli C1845	VFDB R3	CU_fimbriae
+daaF		AAA23662	F1845 fimbrial adhesin (Afa/Dr/AAF family)	Escherichia coli C1845	VFDB R3	CU_fimbriae
+daaA		AAA23663	F1845 fimbrial adhesin (Afa/Dr/AAF family)	Escherichia coli C1845	VFDB R3	CU_fimbriae
+daaE		AAA23661	F1845 fimbrial adhesin (Afa/Dr/AAF family)	Escherichia coli C1845	VFDB R3	CU_fimbriae
+daaD		AAG10405	F1845 fimbrial adhesin (Afa/Dr/AAF family)	Escherichia coli C1845	VFDB R3	CU_fimbriae
+dra2E	ECU95163	AAB65153	Dr-II (Afa/Dr/AAF family)	Escherichia coli EC7372 (UPEC)	manually	CU_fimbriae
+draA		AAK16475	Dr haemagglutinin flexible fimbriae (Afa/Dr/AAF family)	Escherichia coli O75:K5:H- IH11128	VFDB R3	CU_fimbriae
+draB		AAK16476	Dr haemagglutinin flexible fimbriae (Afa/Dr/AAF family)	Escherichia coli O75:K5:H- IH11128	VFDB R3	CU_fimbriae
+draC		AAK16477	Dr haemagglutinin flexible fimbriae (Afa/Dr/AAF family)	Escherichia coli O75:K5:H- IH11128	VFDB R3	CU_fimbriae
+draD		AAK16478	Dr haemagglutinin flexible fimbriae (Afa/Dr/AAF family)	Escherichia coli O75:K5:H- IH11128	VFDB R3	CU_fimbriae
+draP		AAK16479	Dr haemagglutinin flexible fimbriae (Afa/Dr/AAF family)	Escherichia coli O75:K5:H- IH11128	VFDB R3	CU_fimbriae
+draE		AAK16480	Dr haemagglutinin flexible fimbriae (Afa/Dr/AAF family)	Escherichia coli O75:K5:H- IH11128	VFDB R3	CU_fimbriae
+eafA	ECW_m3364	YP_006125972	alpha-type fimbriae	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	CU_fimbriae
+eafB	ECW_m3363	YP_006125971	alpha-type fimbriae	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	CU_fimbriae
+eafC	ECW_m3362	YP_006125970	alpha-type fimbriae	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	CU_fimbriae
+eafD	ECW_m3361	YP_006125969	alpha-type fimbriae	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	CU_fimbriae
+ecpE	Z0356		E. coli common pilus (ECP), mat fimbriae (meningitis-associated and temperature regulated fimbriae); yagV	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	CU_fimbriae
+ecpD	Z0357		E. coli common pilus (ECP), mat fimbriae (meningitis-associated and temperature regulated fimbriae); yagW	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	CU_fimbriae
+ecpC	Z0358		E. coli common pilus (ECP), mat fimbriae (meningitis-associated and temperature regulated fimbriae); yagX	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	CU_fimbriae
+ecpB	Z0359		E. coli common pilus (ECP), mat fimbriae (meningitis-associated and temperature regulated fimbriae); yagY	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	CU_fimbriae
+ecpA	Z0360		E. coli common pilus (ECP), mat fimbriae (meningitis-associated and temperature regulated fimbriae); yagZ	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	CU_fimbriae
+ecpR	Z0361		E. coli common pilus (ECP), mat fimbriae (meningitis-associated and temperature regulated fimbriae); ykgK	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	CU_fimbriae
+ycbQ	Z1286		E. coli YcbQ laminin-binding fimbriae (ELF); elfA	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	CU_fimbriae
+ycbR	Z1287		E. coli YcbQ laminin-binding fimbriae (ELF); elfD	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	CU_fimbriae
+ycbS	Z1288m		E. coli YcbQ laminin-binding fimbriae (ELF); elfC	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	CU_fimbriae
+ycbT	Z1290		E. coli YcbQ laminin-binding fimbriae (ELF); elfG	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	CU_fimbriae
+ycbU	Z1291		E. coli YcbQ laminin-binding fimbriae (ELF)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	CU_fimbriae
+ycbV	Z1292		E. coli YcbQ laminin-binding fimbriae (ELF)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	CU_fimbriae
+ycbF	Z1293m		E. coli YcbQ laminin-binding fimbriae (ELF)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	CU_fimbriae
+f17d-A		AAA92618	F17 pili	Escherichia coli 111KH86 (ETEC)	VFDB R3	CU_fimbriae
+f17d-D		AAA92619	F17 pili	Escherichia coli 111KH86 (ETEC)	VFDB R3	CU_fimbriae
+f17d-C		AAA92620	F17 pili	Escherichia coli 111KH86 (ETEC)	VFDB R3	CU_fimbriae
+f17d-G		AAA92621	F17 pili	Escherichia coli 111KH86 (ETEC)	VFDB R3	CU_fimbriae
+faeD	ECSE_P3-0031		K88 pili/F4 fimbriae (K88 family adhesin)	Escherichia coli O152:H28 SE11 (NPEC)	VFDB R3	CU_fimbriae
+faeE	ECSE_P3-0032		K88 pili/F4 fimbriae (K88 family adhesin)	Escherichia coli O152:H28 SE11 (NPEC)	VFDB R3	CU_fimbriae
+faeF	ECSE_P3-0033		K88 pili/F4 fimbriae (K88 family adhesin)	Escherichia coli O152:H28 SE11 (NPEC)	VFDB R3	CU_fimbriae
+faeG	ECSE_P3-0034		K88 pili/F4 fimbriae (K88 family adhesin)	Escherichia coli O152:H28 SE11 (NPEC)	VFDB R3	CU_fimbriae
+faeH	ECSE_P3-0035		K88 pili/F4 fimbriae (K88 family adhesin)	Escherichia coli O152:H28 SE11 (NPEC)	VFDB R3	CU_fimbriae
+faeI	ECSE_P3-0036		K88 pili/F4 fimbriae (K88 family adhesin)	Escherichia coli O152:H28 SE11 (NPEC)	VFDB R3	CU_fimbriae
+faeJ	ECSE_P3-0037		K88 pili/F4 fimbriae (K88 family adhesin)	Escherichia coli O152:H28 SE11 (NPEC)	VFDB R3	CU_fimbriae
+faeC		AAL47165	K88 pili/F4 fimbriae (K88 family adhesin)	Escherichia coli	VFDB R3	CU_fimbriae
+fanH	EcSMS35_3922		K99 pili/F5 fimbriae	Escherichia coli O19:H34 SMS-3-5 (environmental)	VFDB R3	CU_fimbriae
+fanG	EcSMS35_3923		K99 pili/F5 fimbriae	Escherichia coli O19:H34 SMS-3-5 (environmental)	VFDB R3	CU_fimbriae
+fanF	EcSMS35_3924		K99 pili/F5 fimbriae	Escherichia coli O19:H34 SMS-3-5 (environmental)	VFDB R3	CU_fimbriae
+fanE	EcSMS35_3925		K99 pili/F5 fimbriae	Escherichia coli O19:H34 SMS-3-5 (environmental)	VFDB R3	CU_fimbriae
+fanD	EcSMS35_3926		K99 pili/F5 fimbriae	Escherichia coli O19:H34 SMS-3-5 (environmental)	VFDB R3	CU_fimbriae
+fanC	EcSMS35_3927		K99 pili/F5 fimbriae	Escherichia coli O19:H34 SMS-3-5 (environmental)	VFDB R3	CU_fimbriae
+fimB	UTI89_C5009		Type 1 fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+fimE	UTI89_C5010		Type 1 fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+fimA	UTI89_C5011		Type 1 fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+fimI	UTI89_C5012		Type 1 fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+fimC	UTI89_C5013		Type 1 fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+fimD	UTI89_C5014		Type 1 fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+fimF	UTI89_C5015		Type 1 fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+fimG	UTI89_C5016		Type 1 fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+fimH	UTI89_C5017		Type 1 fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+focI-2	c1237		F1C pili	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	CU_fimbriae
+focB	c1238		F1C pili	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	CU_fimbriae
+focA	c1239		F1C pili	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	CU_fimbriae
+focI	c1240		F1C pili	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	CU_fimbriae
+focC	c1241		F1C pili	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	CU_fimbriae
+focD	c1242		F1C pili	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	CU_fimbriae
+focF	c1243		F1C pili	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	CU_fimbriae
+focG	c1244		F1C pili	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	CU_fimbriae
+focH	c1245		F1C pili	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	CU_fimbriae
+focY	c1246		F1C pili	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	CU_fimbriae
+focX	c1247		F1C pili	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	CU_fimbriae
+fotS		AAO73844	coli surface antigen CS18 (PCFO20)	Escherichia coli O20:K27:H- ARG-2	VFDB R3	CU_fimbriae
+fotT		AAO73845	coli surface antigen CS18 (PCFO20)	Escherichia coli O20:K27:H- ARG-2	VFDB R3	CU_fimbriae
+fotA		AAO73846	coli surface antigen CS18 (PCFO20)	Escherichia coli O20:K27:H- ARG-2	VFDB R3	CU_fimbriae
+fotB		AAO73847	coli surface antigen CS18 (PCFO20)	Escherichia coli O20:K27:H- ARG-2	VFDB R3	CU_fimbriae
+fotC		AAO73848	coli surface antigen CS18 (PCFO20)	Escherichia coli O20:K27:H- ARG-2	VFDB R3	CU_fimbriae
+fotD		AAO73849	coli surface antigen CS18 (PCFO20)	Escherichia coli O20:K27:H- ARG-2	VFDB R3	CU_fimbriae
+fotE		AAO73850	coli surface antigen CS18 (PCFO20)	Escherichia coli O20:K27:H- ARG-2	VFDB R3	CU_fimbriae
+fotF		AAO73851	coli surface antigen CS18 (PCFO20)	Escherichia coli O20:K27:H- ARG-2	VFDB R3	CU_fimbriae
+fotG		AAO73852	coli surface antigen CS18 (PCFO20)	Escherichia coli O20:K27:H- ARG-2	VFDB R3	CU_fimbriae
+gltF	b3214	NP_417681	putative fimbrial operon	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yhcA	b3215	NP_417682	putative fimbrial operon	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yhcD	b3216	NP_417683	putative fimbrial operon	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yhcE	b4569	AEJ58620	putative fimbrial operon	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yhcF	b3219	NP_417686	putative fimbrial operon	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+hdaD		ACF05257	Hda adhesin (Afa/Dr/AAF family)	Escherichia coli C1010-00 (EAEC)	VFDB R3	CU_fimbriae
+hdaC		ACF05258	Hda adhesin (Afa/Dr/AAF family)	Escherichia coli C1010-00 (EAEC)	VFDB R3	CU_fimbriae
+hdaB		ACF05259	Hda adhesin (Afa/Dr/AAF family)	Escherichia coli C1010-00 (EAEC)	VFDB R3	CU_fimbriae
+hdaA		ACF05260	Hda adhesin (Afa/Dr/AAF family)	Escherichia coli C1010-00 (EAEC)	VFDB R3	CU_fimbriae
+ldaA		AAX78184	locus for diffuse adherence (lda), afimbrial adhesin	Escherichia coli	VFDB R3	CU_fimbriae
+ldaC		AAX78185	locus for diffuse adherence (lda), afimbrial adhesin	Escherichia coli	VFDB R3	CU_fimbriae
+ldaD		AAX78186	locus for diffuse adherence (lda), afimbrial adhesin	Escherichia coli	VFDB R3	CU_fimbriae
+ldaE		AAX78187	locus for diffuse adherence (lda), afimbrial adhesin	Escherichia coli	VFDB R3	CU_fimbriae
+ldaF		AAX78188	locus for diffuse adherence (lda), afimbrial adhesin	Escherichia coli	VFDB R3	CU_fimbriae
+ldaG		AAX78189	locus for diffuse adherence (lda), afimbrial adhesin	Escherichia coli	VFDB R3	CU_fimbriae
+ldaH		AAX78190	locus for diffuse adherence (lda), afimbrial adhesin	Escherichia coli	VFDB R3	CU_fimbriae
+ldaI		AAX78191	locus for diffuse adherence (lda), afimbrial adhesin	Escherichia coli	VFDB R3	CU_fimbriae
+ldaB		AAX78194	locus for diffuse adherence (lda), afimbrial adhesin	Escherichia coli	VFDB R3	CU_fimbriae
+lpfA	ECW_m4031	YP_006126607	long polar fimbriae (lpf2-1 allelic variant)	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	CU_fimbriae
+lpfB	ECW_m4030	YP_006126606	long polar fimbriae (lpf2-1 allelic variant)	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	CU_fimbriae
+lpfC	ECW_m4029	YP_006126605	long polar fimbriae (lpf2-1 allelic variant)	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	CU_fimbriae
+lpfD	ECW_m4028	YP_006126604	long polar fimbriae (lpf2-1 allelic variant)	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	CU_fimbriae
+lpfA1	ECW_m3818	YP_006126400	long polar fimbriae (lpf1)	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	CU_fimbriae
+lpfB1	ECW_m3817	YP_006126399	long polar fimbriae (lpf1)	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	CU_fimbriae
+lpfC1	ECW_m3816	YP_006126398	long polar fimbriae (lpf1)	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	CU_fimbriae
+lpfD1	ECW_m3815	YP_006126397	long polar fimbriae (lpf1)	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	CU_fimbriae
+lpfE1	ECW_m3814	YP_006126396	long polar fimbriae (lpf1)	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	CU_fimbriae
+nfaA		AAB26856	nonfimbrial adhesin-1, Nfa-I fimbriae (Afa/Dr/AAF family)	Escherichia coli O83:K1:H4 827	VFDB R3	CU_fimbriae
+nfaE		AAB26855	nonfimbrial adhesin-1, Nfa-I fimbriae (Afa/Dr/AAF family)	Escherichia coli O83:K1:H4 827	VFDB R3	CU_fimbriae
+	EC042_0025	YP_006094360	uncharacterized fimbrial locus	Escherichia coli O44:H18 042 (EAEC)	manually	CU_fimbriae
+	EC042_0024	YP_006094359	uncharacterized fimbrial locus	Escherichia coli O44:H18 042 (EAEC)	manually	CU_fimbriae
+	EC042_0023	YP_006094358	uncharacterized fimbrial locus	Escherichia coli O44:H18 042 (EAEC)	manually	CU_fimbriae
+	EC042_0022	YP_006094357	uncharacterized fimbrial locus	Escherichia coli O44:H18 042 (EAEC)	manually	CU_fimbriae
+papX	UTI89_C4886		P/Pap pilus, pyelonephritis-associated pilus	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+papG	UTI89_C4887		P/Pap pilus, pyelonephritis-associated pilus	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+papF	UTI89_C4888		P/Pap pilus, pyelonephritis-associated pilus	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+papE	UTI89_C4889		P/Pap pilus, pyelonephritis-associated pilus	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+papK	UTI89_C4890		P/Pap pilus, pyelonephritis-associated pilus	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+papJ	UTI89_C4891		P/Pap pilus, pyelonephritis-associated pilus	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+papD	UTI89_C4892		P/Pap pilus, pyelonephritis-associated pilus	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+papC	UTI89_C4893		P/Pap pilus, pyelonephritis-associated pilus	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+papH	UTI89_C4894		P/Pap pilus, pyelonephritis-associated pilus	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+papA	UTI89_C4895		P/Pap pilus, pyelonephritis-associated pilus	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+papB	UTI89_C4896		P/Pap pilus, pyelonephritis-associated pilus	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+papI	UTI89_C4897		P/Pap pilus, pyelonephritis-associated pilus	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+papGI		CAA43570	papG allele I, papG protein	Escherichia coli J96	manually	CU_fimbriae
+papGII	ECOPAPK	AAA24293	papG allele II, papG protein	Escherichia coli K-12 HB101 (NPEC)	manually	CU_fimbriae
+papGIII		CAA43558	papG allele III, prsG protein	Escherichia coli J96	manually	CU_fimbriae
+pixB		CAC85332	Pix pilus	Escherichia coli X2194	VFDB R3	CU_fimbriae
+pixA		CAC85333	Pix pilus	Escherichia coli X2194	VFDB R3	CU_fimbriae
+pixH		CAC85334	Pix pilus	Escherichia coli X2194	VFDB R3	CU_fimbriae
+pixC		CAC85335	Pix pilus	Escherichia coli X2194	VFDB R3	CU_fimbriae
+pixD		CAC85336	Pix pilus	Escherichia coli X2194	VFDB R3	CU_fimbriae
+pixJ		CAC85337	Pix pilus	Escherichia coli X2194	VFDB R3	CU_fimbriae
+pixF		CAC85338	Pix pilus	Escherichia coli X2194	VFDB R3	CU_fimbriae
+pixG		CAC85339	Pix pilus	Escherichia coli X2194	VFDB R3	CU_fimbriae
+	pVir_8	YP_003033983	F17b fimbriae	Escherichia coli Vir68 plasmid pVir68 (NTEC)	manually	CU_fimbriae
+	pVir_9	YP_003033984	F17b fimbriae	Escherichia coli Vir68 plasmid pVir68 (NTEC)	manually	CU_fimbriae
+	pVir_10	YP_003033985	F17b fimbriae	Escherichia coli Vir68 plasmid pVir68 (NTEC)	manually	CU_fimbriae
+	pVir_11	YP_003033986	F17b fimbriae	Escherichia coli Vir68 plasmid pVir68 (NTEC)	manually	CU_fimbriae
+sfaC	UTI89_C1107		S fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+sfaB	UTI89_C1108		S fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+sfaA	UTI89_C1109		S fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+sfaD	UTI89_C1110		S fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+sfaE	UTI89_C1111		S fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+sfaF	UTI89_C1112		S fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+sfaG	UTI89_C1113		S fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+sfaS	UTI89_C1114		S fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+sfaH	UTI89_C1115		S fimbriae	Escherichia coli O18:K1:H7 UTI89 (UPEC)	VFDB R3	CU_fimbriae
+sfmA	b0530	NP_415063	Sfm fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+sfmC	b0531	NP_415064	Sfm fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+sfmD	b0532	NP_415065	Sfm fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+sfmH	b0533	NP_415066	Sfm fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+sfmF	b0534	NP_415067	Sfm fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+sfmZ	b0535	NP_415068	Sfm fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+sfpA	SF0157_p06		Sfp fimbriae	Escherichia coli O157:H- 3072/96 (EHEC)	VFDB R3	CU_fimbriae
+sfpH	SF0157_p07		Sfp fimbriae	Escherichia coli O157:H- 3072/96 (EHEC)	VFDB R3	CU_fimbriae
+sfpC	SF0157_p08		Sfp fimbriae	Escherichia coli O157:H- 3072/96 (EHEC)	VFDB R3	CU_fimbriae
+sfpD	SF0157_p09		Sfp fimbriae	Escherichia coli O157:H- 3072/96 (EHEC)	VFDB R3	CU_fimbriae
+sfpJ	SF0157_p10		Sfp fimbriae	Escherichia coli O157:H- 3072/96 (EHEC)	VFDB R3	CU_fimbriae
+sfpF	SF0157_p11		Sfp fimbriae	Escherichia coli O157:H- 3072/96 (EHEC)	VFDB R3	CU_fimbriae
+sfpG	SF0157_p12		Sfp fimbriae	Escherichia coli O157:H- 3072/96 (EHEC)	VFDB R3	CU_fimbriae
+yadN	b0141	NP_414683	Yad fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yadV	b0140	NP_414682	Yad fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+htrE	b0139	NP_414681	Yad fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yadM	b0138	NP_414680	Yad fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yadL	b0137	NP_414679	Yad fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yadK	b0136	NP_414678	Yad fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yadC	b0135	NP_414677	Yad fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+ybgD	b0719	NP_415247	Ybg fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+ybgQ	b0718	NP_415246	Ybg fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+ybgP	b0717	NP_415245	Ybg fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+ybgO	b0716	NP_415244	Ybg fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yehD	b2111	NP_416614	Yeh fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yehC	b2110	NP_416613	Yeh fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yehB	b2109	NP_416612	Yeh fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yehA	b2108	NP_416611	Yeh fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yfcV	b2339	NP_416841	Yfc fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yfcU	EC042_2578	YP_006096881	Yfc fimbriae	Escherichia coli O44:H18 042 (EAEC)	manually	CU_fimbriae
+yfcS	b2336	NP_416839	Yfc fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yfcR	b2335	NP_416838	Yfc fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yfcQ	b2334	NP_416837	Yfc fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yfcP	b2333	NP_416836	Yfc fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yfcO	b2332	NP_416835	Yfc fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+ygiL	c3791	NP_755662	Yqi fimbriae	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	CU_fimbriae
+yqiG	c3792	NP_755663	Yqi fimbriae	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	CU_fimbriae
+yqiH	c3793	NP_755664	Yqi fimbriae	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	CU_fimbriae
+yqiI	c3794	NP_755665	Yqi fimbriae	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	CU_fimbriae
+yneL	EC042_1639A	YP_006095950	Yde fimbriae	Escherichia coli O44:H18 042 (EAEC)	manually	CU_fimbriae
+	EC042_1639	YP_006095949	Yde fimbriae	Escherichia coli O44:H18 042 (EAEC)	manually	CU_fimbriae
+	EC042_1638	YP_006095948	Yde fimbriae	Escherichia coli O44:H18 042 (EAEC)	manually	CU_fimbriae
+ydeT	EC042_1637	YP_006095947	Yde fimbriae	Escherichia coli O44:H18 042 (EAEC)	manually	CU_fimbriae
+ydeS	EC042_1636	YP_006095946	Yde fimbriae	Escherichia coli O44:H18 042 (EAEC)	manually	CU_fimbriae
+ydeR	EC042_1635	YP_006095945	Yde fimbriae	Escherichia coli O44:H18 042 (EAEC)	manually	CU_fimbriae
+ydeQ	EC042_1634	YP_006095944	Yde fimbriae	Escherichia coli O44:H18 042 (EAEC)	manually	CU_fimbriae
+yraH	b3142	NP_417611	Yra fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yraI	b3143	NP_417612	Yra fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yraJ	b3144	NP_417613	Yra fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+yraK	b3145	NP_417614	Yra fimbriae	Escherichia coli K-12 MG1655 (NPEC)	manually	CU_fimbriae
+flgN	Z1708		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flgA	Z1710		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flgB	Z1711		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flgC	Z1712		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flgD	Z1713		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flgE	Z1714		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flgF	Z1715		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flgG	Z1716		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flgH	Z1717		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flgI	Z1718		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flgJ	Z1719		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flgK	Z1720		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flgL	Z1721		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flhE	Z2931		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flhA	Z2932		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flhB	Z2934		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+cheZ	Z2935		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+cheY	Z2936		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+cheB	Z2937		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+cheR	Z2938		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+cheM	Z2940		E. coli peritrichous flagella 1 gene cluster (Flag-1), Tar	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+cheW	Z2941		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+cheA	Z2942		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+motB	Z2943		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+motA	Z2944		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flhC	Z2945		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flhD	Z2946		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliY	Z3010		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliZ	Z3011		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliA	Z3012		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliC	Z3013		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliD	Z3014		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliS	Z3015		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliT	Z3016		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliE	Z3027		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliF	Z3028		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliG	Z3029		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliH	Z3030		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliI	Z3031		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliJ	Z3032		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliK	Z3033		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliL	Z3034		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliM	Z3035		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliN	Z3036		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliO	Z3037		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliP	Z3038		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliQ	Z3039		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+fliR	Z3040		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flk	Z3583		E. coli peritrichous flagella 1 gene cluster (Flag-1)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Flagella
+flkA	E1470_c32600	AJG10150	alternative flagellin islet	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	Flagella
+flkB	E1470_c32590	AJG10149	alternative flagellin islet	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	Flagella
+lfhA	EC042_0245	YP_006094578	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfhB	EC042_0246	YP_006094579	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfiR	EC042_0247	YP_006094580	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfiQ	EC042_0248	YP_006094581	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfiP	EC042_0249	YP_006094582	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfiN	EC042_0250	YP_006094583	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfiM	EC042_0251	YP_006094584	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lafK	EC042_0252	YP_006094585	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfiE	EC042_0253	YP_006094586	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfiF	EC042_0254	YP_006094587	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfiG	EC042_0255	YP_006094588	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfiH	EC042_0256	YP_006094589	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfiI	EC042_0257	YP_006094590	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfiJ	EC042_0258	YP_006094591	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+	EC042_0259	YP_006094592	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+	EC042_0260	YP_006094593	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lafV	EC042_0261	YP_006094594	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfgN	EC042_0262	YP_006094595	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfgM	EC042_0263	YP_006094596	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfgA	EC042_0264	YP_006094597	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfgB	EC042_0265	YP_006094598	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfgC	EC1303_c02530	AJF55026	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O70:H32 1303 (MPEC)	manually	Flagella
+lfgD	EC042_0267	YP_006094599	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfgE	EC042_0268	YP_006094600	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfgF	EC042_0269	YP_006094601	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfgG	EC042_0270	YP_006094602	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfgH	EC042_0271	YP_006094603	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfgI	EC042_0272	YP_006094604	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfgJ	EC042_0273	YP_006094605	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfgK	EC042_0274	YP_006094606	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lfgL	EC042_0275	YP_006094607	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lafW	EC042_0276	YP_006094608	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lafZ	EC042_0279	YP_006094611	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lafA	EC042_0280	YP_006094612	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lafB	EC042_0281	YP_006094613	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lafC	EC042_0282	YP_006094614	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lafD	EC042_0283	YP_006094615	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lafE	EC042_0284	YP_006094616	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lafF	EC042_0285	YP_006094617	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lafS	EC042_0286	YP_006094618	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lafT	EC042_0287	YP_006094619	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+lafU	EC042_0288	YP_006094620	E. coli flagella 2 gene cluster (Flag-2)	Escherichia coli O44:H18 042 (EAEC)	manually	Flagella
+chuS	c4307		heme/hemoglobin transport system	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+chuA	c4308		heme/hemoglobin transport system	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+chuT	c4313		heme/hemoglobin transport system	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+chuW	c4314		heme/hemoglobin transport system	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+chuX	c4315		heme/hemoglobin transport system	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+chuY	c4316		heme/hemoglobin transport system	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+chuU	c4317		heme/hemoglobin transport system	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+chuV	c4318		heme/hemoglobin transport system	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+cirA	c2690	NP_754578	catecholate siderophore receptor and colicin I receptor	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+cjrA	UTI89_P027	YP_538626	putative iron acquisition operon	Escherichia coli O18:K1:H7 UTI89 (UPEC)	manually	Iron_uptake
+cjrB	UTI89_P028	YP_538627	putative iron acquisition operon	Escherichia coli O18:K1:H7 UTI89 (UPEC)	manually	Iron_uptake
+cjrC	UTI89_P029	YP_538628	putative iron acquisition operon	Escherichia coli O18:K1:H7 UTI89 (UPEC)	manually	Iron_uptake
+efeU	EC042_1093	YP_006095408	ferrous low pH iron transport; ycdN	Escherichia coli O44:H18 042 (EAEC)	manually	Iron_uptake
+efeO	EC042_1094	YP_006095409	ferrous low pH iron transport; ycdO	Escherichia coli O44:H18 042 (EAEC)	manually	Iron_uptake
+efeB	EC042_1095	YP_006095410	ferrous low pH iron transport; ycdB	Escherichia coli O44:H18 042 (EAEC)	manually	Iron_uptake
+eitA	APECO1_O1CoBM102	YP_001481257	ABC iron transport, ColV plasmid-associated	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	manually	Iron_uptake
+eitB	APECO1_O1CoBM101	YP_001481256	ABC iron transport, ColV plasmid-associated	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	manually	Iron_uptake
+eitC	APECO1_O1CoBM100	YP_001481255	ABC iron transport, ColV plasmid-associated	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	manually	Iron_uptake
+eitD	APECO1_O1CoBM99	YP_001481254	ABC iron transport, ColV plasmid-associated	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	manually	Iron_uptake
+entD	c0668	NP_752599	enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+fepA	c0669		enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+fes	c0671		enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+entF	c0673		enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+fepE	c0674		enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+fepC	c0675		enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+fepG	c0676		enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+fepD	c0677		enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+entS	c0678		enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+fepB	c0679		enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+entC	c0680		enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+entE	c0681		enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+entB	c0682		enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+entA	c0683		enterobactin biosynthesis/transport gene cluster, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+fbpC	ECs0413	NP_308440	ferric iron transport system	Escherichia coli O157:H7 EDL933 (EHEC)	manually	Iron_uptake
+fbpB	ECs0414	NP_308441	ferric iron transport system	Escherichia coli O157:H7 EDL933 (EHEC)	manually	Iron_uptake
+fbpA	ECs0415	NP_308442	ferric iron transport system	Escherichia coli O157:H7 EDL933 (EHEC)	manually	Iron_uptake
+fecE	b4287	NP_418707	ferric citrate transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+fecD	b4288	NP_418708	ferric citrate transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+fecC	b4289	NP_418709	ferric citrate transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+fecB	b4290	NP_418710	ferric citrate transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+fecA	b4291	NP_418711	ferric citrate transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+fecR	b4292	NP_418712	ferric citrate transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+fecI	b4293	NP_418713	ferric citrate transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+feoA	b3408	NP_417867	ferrous iron transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+feoB	b3409	NP_417868	ferrous iron transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+feoC	b3410	NP_417869	ferrous iron transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+fhuA	b0150	NP_414692	ferrichrome iron transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+fhuC	b0151	NP_414693	ferrichrome iron transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+fhuD	b0152	NP_414694	ferrichrome iron transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+fhuB	b0153	NP_414695	ferrichrome iron transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+fhuE	b1102	NP_415620	ferric coprogen outer membrane porin	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+fhuF	b4367	NP_418787	ferric iron reductase involved in ferric hydroximate transport	Escherichia coli K-12 MG1655 (NPEC)	manually	Iron_uptake
+fitR	EC042_3315	YP_006097606	ferrichrome iron transport system	Escherichia coli O44:H18 042 (EAEC)	manually	Iron_uptake
+fitE	EC042_3316	YP_006097607	ferrichrome iron transport system	Escherichia coli O44:H18 042 (EAEC)	manually	Iron_uptake
+fitD	EC042_3317	YP_006097608	ferrichrome iron transport system	Escherichia coli O44:H18 042 (EAEC)	manually	Iron_uptake
+fitC	EC042_3318	YP_006097609	ferrichrome iron transport system	Escherichia coli O44:H18 042 (EAEC)	manually	Iron_uptake
+fitB	EC042_3319	YP_006097610	ferrichrome iron transport system	Escherichia coli O44:H18 042 (EAEC)	manually	Iron_uptake
+fitA	EC042_3320	YP_006097611	ferrichrome iron transport system	Escherichia coli O44:H18 042 (EAEC)	manually	Iron_uptake
+fiu	c0890	NP_752820	catecholate siderophore receptor Fiu; ybiL	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+hma	c2482	NP_754374	outer membrane receptor for iron heme-mediated uptake or colicin	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+ireA	c5174	NP_757022	iron-responsive element	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+iroN	c1250	NP_753164	salmochelin iron transport, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+iroE	c1251	NP_753165	salmochelin iron transport, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+iroD	c1252	NP_753166	salmochelin iron transport, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+iroC	c1253	NP_753167	salmochelin iron transport, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+iroB	c1254	NP_753168	salmochelin iron transport, catecholate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+iucA	c3627	NP_755502	aerobactin biosynthesis cluster, with receptor iutA, citrate hydroxamate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+iucB	c3626	NP_755501	aerobactin biosynthesis cluster, with receptor iutA, citrate hydroxamate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+iucC	c3625	NP_755500	aerobactin biosynthesis cluster, with receptor iutA, citrate hydroxamate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+iucD	c3624	NP_755499	aerobactin biosynthesis cluster, with receptor iutA, citrate hydroxamate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+iutA	c3623	NP_755498	aerobactin biosynthesis cluster, with receptor iutA, citrate hydroxamate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+shiF	c3628	NP_755503	(areobactin) transport protein ShiF	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Iron_uptake
+sitD	EC042_1518		ferrous iron/manganese transport system	Escherichia coli O44:H18 042 (EAEC)	VFDB R2	Iron_uptake
+sitC	EC042_1519		ferrous iron/manganese transport system	Escherichia coli O44:H18 042 (EAEC)	VFDB R2	Iron_uptake
+sitB	EC042_1520		ferrous iron/manganese transport system	Escherichia coli O44:H18 042 (EAEC)	VFDB R2	Iron_uptake
+sitA	EC042_1521		ferrous iron/manganese transport system	Escherichia coli O44:H18 042 (EAEC)	VFDB R2	Iron_uptake
+ybtS	c2419		yersiniabactin iron transport, phenolate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+ybtX	c2420		yersiniabactin iron transport, phenolate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+ybtQ	c2421		yersiniabactin iron transport, phenolate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+ybtP	c2422		yersiniabactin iron transport, phenolate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+ybtA	c2423		yersiniabactin iron transport, phenolate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+irp2	c2424		yersiniabactin iron transport, phenolate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+irp1	c2429		yersiniabactin iron transport, phenolate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+ybtU	c2430		yersiniabactin iron transport, phenolate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+ybtT	c2432		yersiniabactin iron transport, phenolate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+ybtE	c2433		yersiniabactin iron transport, phenolate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+fyuA	c2436		yersiniabactin iron transport, phenolate type	Escherichia coli O6:K2:H1 CFT073 (UPEC)	VFDB R3	Iron_uptake
+bor	APECO1_O1CoBM146	YP_001481302	increased serum survival, iss	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	manually	Serum_resistance
+gfcA	EC1303_c10070	AJF55755	group 4 capsule (G4C)	Escherichia coli O70:H32 1303 (MPEC)	manually	Serum_resistance
+gfcB	EC1303_c10060	AJF55754	group 4 capsule (G4C)	Escherichia coli O70:H32 1303 (MPEC)	manually	Serum_resistance
+gfcC	EC1303_c10050	AJF55753	group 4 capsule (G4C)	Escherichia coli O70:H32 1303 (MPEC)	manually	Serum_resistance
+gfcD	EC1303_c10040	AJF55752	group 4 capsule (G4C)	Escherichia coli O70:H32 1303 (MPEC)	manually	Serum_resistance
+gfcE	EC1303_c10030	AJF55751	group 4 capsule (G4C)	Escherichia coli O70:H32 1303 (MPEC)	manually	Serum_resistance
+etp	EC1303_c10020	AJF55750	group 4 capsule (G4C)	Escherichia coli O70:H32 1303 (MPEC)	manually	Serum_resistance
+etk	EC1303_c10010	AJF55749	group 4 capsule (G4C)	Escherichia coli O70:H32 1303 (MPEC)	manually	Serum_resistance
+kpsC'-K5	ECP_3024	YP_670908	K15 capsule (mix of group2 and 3 capsule); kpsFEDU (kpsC(K5) truncated) identical to group 2 capsules	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Serum_resistance
+kpsS-K10	ECP_3027	YP_670911	K15 capsule (mix of group2 and 3 capsule); kpsFEDU (kpsC(K5) truncated) identical to group 2 capsules	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Serum_resistance
+kpsC-K10	ECP_3028	YP_670912	K15 capsule (mix of group2 and 3 capsule); kpsFEDU (kpsC(K5) truncated) identical to group 2 capsules	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Serum_resistance
+kpsT-K15	ECP_3035	YP_670919	K15 capsule (mix of group2 and 3 capsule); kpsFEDU (kpsC(K5) truncated) identical to group 2 capsules	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Serum_resistance
+kpsM-K15	ECP_3036	YP_670920	K15 capsule (mix of group2 and 3 capsule); kpsFEDU (kpsC(K5) truncated) identical to group 2 capsules	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Serum_resistance
+kpsD-III	AK99_RS0104360	WP_023154148	group 3 capsule (for all group 3) genes of region 1 and region 3 (e.g. K10, K54)	Escherichia coli MS499 (ExPEC)	manually	Serum_resistance
+kpsM-III	AK99_RS0104355	WP_032317967	group 3 capsule (for all group 3) genes of region 1 and region 3 (e.g. K10, K54)	Escherichia coli MS499 (ExPEC)	manually	Serum_resistance
+kpsT-III	AK99_RS0104350	WP_032317966	group 3 capsule (for all group 3) genes of region 1 and region 3 (e.g. K10, K54)	Escherichia coli MS499 (ExPEC)	manually	Serum_resistance
+kpsE-III	AK99_RS0104345	WP_032317965	group 3 capsule (for all group 3) genes of region 1 and region 3 (e.g. K10, K54)	Escherichia coli MS499 (ExPEC)	manually	Serum_resistance
+kpsC-III	AK99_RS0104270	WP_032317955	group 3 capsule (for all group 3) genes of region 1 and region 3 (e.g. K10, K54)	Escherichia coli MS499 (ExPEC)	manually	Serum_resistance
+kpsS-III	AK99_RS0104265	WP_001735713	group 3 capsule (for all group 3) genes of region 1 and region 3 (e.g. K10, K54)	Escherichia coli MS499 (ExPEC)	manually	Serum_resistance
+kpsF-II	ECABU_c33430	YP_006107339	group 2 capsule (for all group 2) genes of region 1 (e.g. K1, K2, K5, and K12)	Escherichia coli ABU 83972 (NPEC)	manually	Serum_resistance
+kpsE-II	ECABU_c33440	YP_006107340	group 2 capsule (for all group 2) genes of region 1 (e.g. K1, K2, K5, and K12)	Escherichia coli ABU 83972 (NPEC)	manually	Serum_resistance
+kpsD-II	ECABU_c33450	YP_006107341	group 2 capsule (for all group 2) genes of region 1 (e.g. K1, K2, K5, and K12)	Escherichia coli ABU 83972 (NPEC)	manually	Serum_resistance
+kpsU-II	ECABU_c33460	YP_006107342	group 2 capsule (for all group 2) genes of region 1 (e.g. K1, K2, K5, and K12)	Escherichia coli ABU 83972 (NPEC)	manually	Serum_resistance
+kpsC-II	ECABU_c33470	YP_006107343	group 2 capsule (for all group 2) genes of region 1 (e.g. K1, K2, K5, and K12)	Escherichia coli ABU 83972 (NPEC)	manually	Serum_resistance
+kpsS-II	ECABU_c33480	YP_006107344	group 2 capsule (for all group 2) genes of region 1 (e.g. K1, K2, K5, and K12)	Escherichia coli ABU 83972 (NPEC)	manually	Serum_resistance
+kpsM-II-K5	ECABU_c33560	YP_006107351	K5 capsule, group 2 capsule genes of region 3	Escherichia coli ABU 83972 (NPEC)	manually	Serum_resistance
+kpsT-II-K5	ECABU_c33550	YP_006107350	K5 capsule, group 2 capsule genes of region 3	Escherichia coli ABU 83972 (NPEC)	manually	Serum_resistance
+kpsM-K2	c3698	NP_755573	K2 capsule genes region 3	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Serum_resistance
+kpsT-K2	c3697	NP_755572	K2 capsule genes region 3	Escherichia coli O6:K2:H1 CFT073 (UPEC)	manually	Serum_resistance
+neuS	UTI89_C3368	YP_542346	K1 capsule (group 2 capsule genes of regions 2 and 3)	Escherichia coli O18:K1:H7 UTI89 (UPEC)	manually	Serum_resistance
+neuE	UTI89_C3369	YP_542347	K1 capsule (group 2 capsule genes of regions 2 and 3)	Escherichia coli O18:K1:H7 UTI89 (UPEC)	manually	Serum_resistance
+neuC	UTI89_C3370	YP_542348	K1 capsule (group 2 capsule genes of regions 2 and 3)	Escherichia coli O18:K1:H7 UTI89 (UPEC)	manually	Serum_resistance
+neuA	UTI89_C3371	YP_542349	K1 capsule (group 2 capsule genes of regions 2 and 3)	Escherichia coli O18:K1:H7 UTI89 (UPEC)	manually	Serum_resistance
+neuB	UTI89_C3372	YP_542350	K1 capsule (group 2 capsule genes of regions 2 and 3)	Escherichia coli O18:K1:H7 UTI89 (UPEC)	manually	Serum_resistance
+neuD	UTI89_C3373	YP_542351	K1 capsule (group 2 capsule genes of regions 2 and 3)	Escherichia coli O18:K1:H7 UTI89 (UPEC)	manually	Serum_resistance
+kpsT-K1	UTI89_C3374	YP_542352	K1 capsule (group 2 capsule genes of regions 2 and 3)	Escherichia coli O18:K1:H7 UTI89 (UPEC)	manually	Serum_resistance
+kpsM-K1	UTI89_C3375	YP_542353	K1 capsule (group 2 capsule genes of regions 2 and 3)	Escherichia coli O18:K1:H7 UTI89 (UPEC)	manually	Serum_resistance
+ompP		CAA52338	omptin, F episome-encoded	Escherichia coli K-12 MG1655 (NPEC)	manually	Serum_resistance
+ompTc	APECO1_1482	YP_851702	ompT gene for outer membrane protease VII (outer membrane protein 3b), chromosome-encoded, omptin	Escherichia coli O1:K1:H7 APEC O1 (APEC)	manually	Serum_resistance
+ompTp	O2ColV26	YP_444072	outer membrane protease, omptin, episomal	Escherichia coli O2 APEC A2363 plasmid pAPEC-O2-ColV (APEC)	manually	Serum_resistance
+traT	J01769	AAA26075	complement resistance gene	Escherichia coli plasmid R100	manually	Serum_resistance
+etpC	L7032		Etp T2SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T2SS
+etpD	L7033		Etp T2SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T2SS
+etpE	L7034		Etp T2SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T2SS
+etpF	L7035		Etp T2SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T2SS
+etpG	L7036		Etp T2SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T2SS
+etpH	L7037		Etp T2SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T2SS
+etpI	L7038		Etp T2SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T2SS
+etpJ	L7039		Etp T2SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T2SS
+etpK	L7040		Etp T2SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T2SS
+etpL	L7041		Etp T2SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T2SS
+etpM	L7042		Etp T2SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T2SS
+etpN	L7043		Etp T2SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T2SS
+etpO	L7044		Etp T2SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T2SS
+gspB	b3322	NP_417781	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspA	b3323	NP_417782	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspC	b3324	NP_417783	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspD	b3325	NP_417784	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspE	b3326	NP_417785	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspF	b3327	NP_417786	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspG	b3328	NP_417787	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspH	b3329	NP_417788	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspI	b3330	NP_417789	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspJ	b3331	NP_417790	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspK	b3332	NP_417791	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspL	b3333	NP_417792	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspM	b3334	NP_417793	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspO	b3335	NP_417794	Gsp T2SS-1, general secretion pathway	Escherichia coli K-12 MG1655 (NPEC)	manually	T2SS
+gspM	ECW_m3226	YP_006125842	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+gspL	ECW_m3227	YP_006125843	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+gspK	ECW_m3228	YP_006125844	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+gspJ	ECW_m3229	YP_006125845	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+gspI	ECW_m3230	YP_006125846	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+gspH	ECW_m3231	YP_006125847	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+gspG	ECW_m3232	YP_006125848	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+gspF	ECW_m3233	YP_006125849	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+gspE	ECW_m3234	YP_006125850	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+gspD	ECW_m3235	YP_006125851	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+gspC	ECW_m3236	YP_006125852	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+yghG	ECW_m3237	YP_006125853	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+pppA	ECW_m3238	YP_006125854	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+yghJ	ECW_m3239	YP_006125855	Gsp T2SS-2, general secretion pathway	Escherichia coli O6:K-:H49 W ATCC9637 (NPEC)	manually	T2SS
+espG1	E2348C_3970		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+ler	E2348C_3968		SSA-ESC (SPI-2), LEE encoded T3SS; transcriptional regulator	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+	E2348C_3966		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+	E2348C_3967		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+	E2348C_3965		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+	E2348C_3964		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+escR	E2348C_3963		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+escS	E2348C_3962		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+	E2348C_3959		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+escU	E2348C_3960		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+escT	E2348C_3961		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+grlA	E2348C_3957		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+grlR	E2348C_3958		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+escV	E2348C_3949		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+mpc	E2348C_3950		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+espZ	E2348C_3951		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+orf8	E2348C_3952		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+escJ	E2348C_3953		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+sepD	E2348C_3954		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+escC	E2348C_3955		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+cesD	E2348C_3956		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+	E2348C_3947		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+escN	E2348C_3948		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+	E2348C_3946		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+sepQ	E2348C_3945		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+cesF	E2348C_3943		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+espH	E2348C_3944		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+map	E2348C_3942		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector, mitochondrial-associated protein	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+tir	E2348C_3941		SSA-ESC (SPI-2), LEE encoded T3SS; translocated intimin receptor	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+cesT	E2348C_3940		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+escD	E2348C_3938		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+speL	E2348C_3937		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+espA	E2348C_3936		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+espD	E2348C_3935		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+espB	E2348C_3934		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+espF	E2348C_3930		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+	E2348C_3931		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+escF	E2348C_3932		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+cesD2	E2348C_3933		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+nleB1	E2348C_3231		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+nleE1	E2348C_3232		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+espL2	E2348C_3230		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+espG2	E2348C_2916		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+nleF	E2348C_1445		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+nleH2	E2348C_1444		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+nleA	E2348C_1442		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector, espI	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+nleE2	E2348C_1080		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+nleD	E2348C_1044		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+nleC	E2348C_1042		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+nleB2	E2348C_1041		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+espJ	E2348C_0723		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+nleG	E2348C_1040		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+nleH1	E2348C_0718		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	T3SS_TTSS
+espX4	Z5636		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espX5	Z5665		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espX6	Z5935		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espL4	Z5608		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espY4	Z5211		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espG	Z5142		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+escE	Z5139		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+ler	Z5140		SSA-ESC (SPI-2), LEE encoded T3SS; transcriptional regulator	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+cesAB	Z5138		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+orf4	Z5137		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+escL	Z5136		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+escR	Z5135		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+escS	Z5134		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+escT	Z5133		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+etgA	Z5131		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+escU	Z5132		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+cesD	Z5127		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+grlA	Z5128		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+grlR	Z5129		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+sepD	Z5125		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+escC	Z5126		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+sepZ	Z5122		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector, espZ	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+escI	Z5123		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+escJ	Z5124		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+orf12	Z5121		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+escV	Z5120		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+escN	Z5119		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+orf16	Z5117		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+orf15	Z5118		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+cesF	Z5114		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espH	Z5115		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+sepQ	Z5116		SSA-ESC (SPI-2), LEE encoded T3SS; escQ	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+map	Z5113		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector, mitochondrial-associated protein	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+tir	Z5112		SSA-ESC (SPI-2), LEE encoded T3SS; translocated intimin receptor	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+cesT	Z5111		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+eae	Z5110		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector, intimin adherence protein	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+escD	Z5109		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+sepL	Z5108		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espA	Z5107		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espD	Z5106		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espB	Z5105		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+orf29	Z5102		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+escF	Z5103		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+cesD2	Z5104		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+nleE	Z4329		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espF	Z5100		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+nleB1	Z4328		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espL2	Z4326		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espW	Z3920		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espM2	Z3918		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espR4	Z3026		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espJ	Z3071		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espFu	Z3072		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector, tccP (Tir cytoskeleton coupling protein)	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espR3	Z3023		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espL1	Z2749		SSA-ESC (SPI-2), LEE encoded T3SS; LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+nleH2	Z6021		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+nleA	Z6024		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector, espI	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espM1	Z2565		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+nleF	Z6020		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+nleG7	Z2077		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espR1	Z2242		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espK	Z1829		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espN	Z1824		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espX7	Z1822		SSA-ESC (SPI-2), LEE encoded T3SS; nleL	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espX2	Z1019		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+nleD	Z0990		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+nleH1	Z0989		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+nleC	Z0986		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+nleB2	Z0985		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espY2	Z0078		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espY3	Z0521		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espY1	Z0065		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espX1	Z0025		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T3SS_TTSS
+espO1-1	ECs1567		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 Sakai (EHEC)	VFDB R3	T3SS_TTSS
+espO1-2	ECs1821		SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli O157:H7 Sakai (EHEC)	VFDB R3	T3SS_TTSS
+cif		AAN07916	SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector, cell-cycle-inhibitory factor 	Escherichia coli O26 C/15333	VFDB R3	T3SS_TTSS
+espT		CAX32470	SSA-ESC (SPI-2), LEE encoded T3SS	Escherichia coli Ont:H- FV11678	VFDB R3	T3SS_TTSS
+efa1	ECO111_5002		SSA-ESC (SPI-2), LEE encoded T3SS; non-LEE encoded T3SS effector, EHEC factor for adherence/lymphocyte inhibitory factor (LifA)	Escherichia coli O111:H- 11128	VFDB R3	T3SS_TTSS
+yqeH	EC042_3044	YP_006097339	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+yqeI	EC042_3045	YP_006097340	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+	EC042_3046	YP_006097341	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+	EC042_3047	YP_006097342	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+	EC042_3048	YP_006097343	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+ygeG	EC042_3049	YP_006097344	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+ygeH	EC042_3050	YP_006097345	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+	EC042_3051	YP_006097346	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+	EC042_3052	YP_006097347	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+ygeK	EC042_3053	YP_006097348	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+orgB	EC042_3054	YP_006097349	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+orgA	EC042_3055	YP_006097350	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+eprK	EC042_3056	YP_006097351	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+eprJ	EC042_3057	YP_006097352	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+eprI	EC042_3058	YP_006097353	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+eprH	EC042_3059	YP_006097354	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+etrA	EC042_3060	YP_006097355	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+eivH	EC1303_c29800	AJF57665	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O70:H32 1303 (MPEC)	manually	T3SS_TTSS
+epaS	EC042_3061	YP_006097356	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+epaR	EC042_3062	YP_006097357	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+epaQ	EC042_3063	YP_006097358	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+epaP	EC042_3064	YP_006097359	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+epaO	EC042_3065	YP_006097360	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+eivJ	PGA_00447	CDP66667	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli D6-113.11 (MPEC)	manually	T3SS_TTSS
+eivI	EC042_3068	YP_006097363	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+eivC	EC042_3069	YP_006097364	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+eivA	EC042_3070	YP_006097365	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+eivE	EC042_3071	YP_006097366	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+eivG	EC042_3072	YP_006097367	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+eivF	EC042_3073	YP_006097368	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+	EC042_3074	YP_006097369	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+	EC042_3075	YP_006097370	ETT2 (E. coli T3SS 2), INV-MXI-SPA (SPI-1)	Escherichia coli O44:H18 042 (EAEC)	manually	T3SS_TTSS
+	E1470_c02180	AJG07210	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+impA	E1470_c02190	AJG07211	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsI	E1470_c02200	AJG07212	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsA	E1470_c02210	AJG07213	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsX	E1470_c02220	AJG07214	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsV	E1470_c02230	AJG07215	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsU	E1470_c02240	AJG07216	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsM	E1470_c02250	AJG07217	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsN	E1470_c02260	AJG07218	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsH	E1470_c02270	AJG07219	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsR	E1470_c02280	AJG07220	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsC	E1470_c02290	AJG07221	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsD	E1470_c02300	AJG07222	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsB	E1470_c02310	AJG07223	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+	E1470_c02320	AJG07224	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsS	E1470_c02330	AJG07225	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+	E1470_c02340	AJG07226	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+etsG	E1470_c02350	AJG07227	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+	E1470_c02370	AJG07228	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+yhhI_1	E1470_c02390	AJG07229	ECC-1470 T6SS 1, subtype i1	Escherichia coli Ont:Hnt ECC-1470 (MPEC)	manually	T6SS
+	ECP_2800	YP_670685	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2801	YP_670686	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2802	YP_670687	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2803	YP_670688	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2804	YP_670689	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2805	YP_670690	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2806	YP_670691	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2807	YP_670692	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2808	YP_670693	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2809	YP_670694	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2810	YP_670695	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2811	YP_670696	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2812	YP_670697	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2813	YP_670698	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2814	YP_670699	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2815	YP_670700	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2816	YP_670701	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2817	YP_670702	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2818	YP_670703	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2819	YP_670704	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2820	YP_670705	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2821	YP_670706	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2822	YP_670707	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+	ECP_2823	YP_670708	E. coli 536 T6SS 2, subtype i2	Escherichia coli O6:K15:H31 536 (UPEC)	manually	T6SS
+aaiA	EC042_4562		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiB	EC042_4563		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiC	EC042_4564		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3; hcp	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiD	EC042_4565		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiE	EC042_4566		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiF	EC042_4568		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+vgrG	EC042_4569		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiH	EC042_4570		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiI	EC042_4571		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiJ	EC042_4572		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiK	EC042_4573		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiL	EC042_4574		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiM	EC042_4574A		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiN	EC042_4575		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+icmF	EC042_4576		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3; aaiO	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+clpV	EC042_4577		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3; aaiP	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiS	EC042_4580		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiT	EC042_4581		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiU	EC042_4582		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiV	EC042_4583		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aaiW	EC042_4584		AAI/SCI-II (subtype i4b) T6SS, EAEC 042 T6SS 3	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+aec28	APECO1_1768		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec29	APECO1_1769		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec30	APECO1_1770		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec31	APECO1_1771		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec32	APECO1_1772		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec14	APECO1_1755		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+	APECO1_1753		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec11	APECO1_1752		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec8	APECO1_1750		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec7	APECO1_1749		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec26	APECO1_1766		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec25	APECO1_1765		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec24	APECO1_1764		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec23	APECO1_1763		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec22	APECO1_1762		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+	APECO1_1761		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec19	APECO1_1760		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec18	APECO1_1759		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec17	APECO1_1758		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec16	APECO1_1757		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec15	APECO1_1756		AEC (subtype i1) T6SS	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+aec27	APECO1_1767		AEC (subtype i1) T6SS; clpV	Escherichia coli O1:K1:H7 APEC O1 (APEC)	VFDB R3	T6SS
+	Z0249		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+icmF	Z0250		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0251		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0252		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0253		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+clpV	Z0254		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0255		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0256		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0257		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0258		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0259		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0260		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0261		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0262		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0263		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0264		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	Z0265		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+hcp	Z0266		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+vgrG	Z0267		EHS (subtype i1) T6SS	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	T6SS
+	EC042_4524		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4525		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4526		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4527		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4528		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4529		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4530		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4531		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4532		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4533		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4534		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4535		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4536		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4537		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4538		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4539		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4540		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4541		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4542		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4543		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+	EC042_4544		SCI-I (subtype i2) T6SS, EAEC 042 T6SS 2	Escherichia coli O44:H18 042 (EAEC)	VFDB R3	T6SS
+astA	EC1303_c38650	AJF58514	enteroaggregative heat-stable enterotoxin 1 (EAST1)	Escherichia coli O70:H32 1303 (MPEC)	manually	Toxin
+cdtA-I		AAD10621	cytolethal distending toxin CDT-I, DNAse I / genotoxin	Escherichia coli O86:H34 E6468/62	VFDB R3	Toxin
+cdtB-I		AAD10622	cytolethal distending toxin CDT-I, DNAse I / genotoxin	Escherichia coli O86:H34 E6468/62	VFDB R3	Toxin
+cdtC-I		AAD10623	cytolethal distending toxin CDT-I, DNAse I / genotoxin	Escherichia coli O86:H34 E6468/62	VFDB R3	Toxin
+cdtA-II		AAA18785	cytolethal distending toxin CDT-II, DNAse I / genotoxin	Escherichia coli 9142-88	VFDB R3	Toxin
+cdtB-II		AAA18786	cytolethal distending toxin CDT-II, DNAse I / genotoxin	Escherichia coli 9142-88	VFDB R3	Toxin
+cdtC-II		AAA18787	cytolethal distending toxin CDT-II, DNAse I / genotoxin	Escherichia coli 9142-88	VFDB R3	Toxin
+cdtA-III		AAC45442	cytolethal distending toxin CDT-III, DNAse I / genotoxin	Escherichia coli S5	VFDB R3	Toxin
+cdtB-III		AAC45443	cytolethal distending toxin CDT-III, DNAse I / genotoxin	Escherichia coli S5	VFDB R3	Toxin
+cdtC-III		AAC45444	cytolethal distending toxin CDT-III, DNAse I / genotoxin	Escherichia coli S5	VFDB R3	Toxin
+cdtA-IV		AAT92047	cytolethal distending toxin CDT-IV, DNAse I / genotoxin	Escherichia coli O75 28C (ExPEC)	VFDB R3	Toxin
+cdtB-IV		AAT92048	cytolethal distending toxin CDT-IV, DNAse I / genotoxin	Escherichia coli O75 28C (ExPEC)	VFDB R3	Toxin
+cdtC-IV		AAT92049	cytolethal distending toxin CDT-IV, DNAse I / genotoxin	Escherichia coli O75 28C (ExPEC)	VFDB R3	Toxin
+cdtA-V		CAD48849	cytolethal distending toxin CDT-V, DNAse I / genotoxin	Escherichia coli O157:H- 493/89	VFDB R3	Toxin
+cdtB-V		CAD48850	cytolethal distending toxin CDT-V, DNAse I / genotoxin	Escherichia coli O157:H- 493/89	VFDB R3	Toxin
+cdtC-V		CAD48851	cytolethal distending toxin CDT-V, DNAse I / genotoxin	Escherichia coli O157:H- 493/89	VFDB R3	Toxin
+cfa		CAA61102	colicin 5, alpha-helix-PFT (pore forming toxins)	Escherichia coli ECOR-5	VFDB R3	Toxin
+cta		CAA57998	colicin 10, alpha-helix-PFT (pore forming toxins)	Escherichia coli PTE10	VFDB R3	Toxin
+		NP_040393	colicin A, alpha-helix-PFT (pore forming toxins)	Escherichia coli	VFDB R3	Toxin
+cba	APECO1_O1CoBM120	YP_001481275	colicin B activity, alpha-helix-PFT (pore forming toxins)	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	manually	Toxin
+cbi	APECO1_O1CoBM119	YP_001481274	colicin B immunity, alpha-helix-PFT (pore forming toxins)	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	manually	Toxin
+cba		AAA98063	colicin B, alpha-helix-PFT (pore forming toxins)	Escherichia coli	VFDB R3	Toxin
+	EcSMS35_B0007		colicin E1, alpha-helix-PFT (pore forming toxins)	Escherichia coli O19:H34 SMS-3-5 plasmid pSMS35_8 (environmental)	VFDB R3	Toxin
+cia	pECS88_0104	YP_002401102	colicin Ia activitiy, alpha-helix-PFT (pore forming toxins)	Escherichia coli O45:K1:H7 S88 plasmid pECOS88 (MNEC)	manually	Toxin
+imm	pECS88_0105	YP_002401103	colicin Ia immunity, alpha-helix-PFT (pore forming toxins)	Escherichia coli O45:K1:H7 S88 plasmid pECOS88 (MNEC)	manually	Toxin
+cib	LH0107		colicin Ib, alpha-helix-PFT (pore forming toxins)	Escherichia coli O113:H21 EH41 (STEC)	VFDB R3	Toxin
+cka		CAA61099	colicin K, alpha-helix-PFT (pore forming toxins)	Escherichia coli K49	VFDB R3	Toxin
+cma	APECO1_O1CoBM118	YP_001481273	colicin M activity, alpha-helix-PFT (pore forming toxins)	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	manually	Toxin
+cmi	APECO1_O1CoBM117	YP_001481272	colicin M immunity, alpha-helix-PFT (pore forming toxins)	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	manually	Toxin
+		CAA68592	colicin N, alpha-helix-PFT (pore forming toxins)	Escherichia coli	VFDB R3	Toxin
+csa		CAB46008	colicin S4, alpha-helix-PFT (pore forming toxins)	Escherichia coli	VFDB R3	Toxin
+cvaA	O2ColV63	YP_444118	colicin V (a microcin), alpha-helix-PFT (pore forming toxins)	Escherichia coli O2 APEC A2363 plasmid pAPEC-O2-ColV (APEC)	manually	Toxin
+cvaB	O2ColV64	YP_444119	colicin V (a microcin), alpha-helix-PFT (pore forming toxins)	Escherichia coli O2 APEC A2363 plasmid pAPEC-O2-ColV (APEC)	manually	Toxin
+cvaC	O2ColV65	YP_444120	colicin V (a microcin), alpha-helix-PFT (pore forming toxins)	Escherichia coli O2 APEC A2363 plasmid pAPEC-O2-ColV (APEC)	manually	Toxin
+cvi	O2ColV66	YP_444121	colicin V (a microcin), alpha-helix-PFT (pore forming toxins)	Escherichia coli O2 APEC A2363 plasmid pAPEC-O2-ColV (APEC)	manually	Toxin
+colY		AAF82683	colicin Y, alpha-helix-PFT (pore forming toxins)	Escherichia coli	VFDB R3	Toxin
+clbQ		CAJ76283	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbP		CAJ76284	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbO		CAJ76285	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbN		CAJ76286	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbM		CAJ76287	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbL		CAJ76288	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbK		CAJ76289	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbJ		CAJ76290	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbI		CAJ76291	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbH		CAJ76292	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbG		CAJ76293	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbF		CAJ76294	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbE		CAJ76295	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbD		CAJ76296	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbC		CAJ76297	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbB		CAJ76298	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbR		CAJ76299	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+clbA		CAJ76300	colibactin (polykedite-peptide), DNAse I / genotoxin	Escherichia coli O18:K1:H7 IHE3034 (MNEC)	VFDB R3	Toxin
+cnf1		CAA50007	cytotoxic necrotizing factor 1, deamidase	Escherichia coli E-B35	VFDB R3	Toxin
+cnf2		AAA18229	cytotoxic necrotizing factor 2, deamidase	Escherichia coli S5	VFDB R3	Toxin
+cnf3		CAK19001	cytotoxic necrotizing factor 3, deamidase	Escherichia coli O153:H11 C48a	VFDB R3	Toxin
+eltA		YP_003293997	heat-labile enterotoxin LTI, ADP-ribosyltransferase	Escherichia coli O78:K80:H11 H10407 (ETEC)	VFDB R3	Toxin
+eltB		YP_003293996	heat-labile enterotoxin LTI, ADP-ribosyltransferase	Escherichia coli O78:K80:H11 H10407 (ETEC)	VFDB R3	Toxin
+eltA-II		AAA24093	heat-labile enterotoxin LTII, ADP-ribosyltransferase	Escherichia coli	VFDB R3	Toxin
+eltB-II		AAA24094	heat-labile enterotoxin LTII, ADP-ribosyltransferase	Escherichia coli	VFDB R3	Toxin
+estIa		YP_003294006	heat-stable enterotoxin ST-Ia, guanylyl cyclase; sta1	Escherichia coli O78:K80:H11 H10407 (ETEC)	VFDB R3	Toxin
+estIb		AAA23990	heat-stable enterotoxin ST-Ib, guanylyl cyclase; sta2	Escherichia coli	VFDB R3	Toxin
+hlyC	pO157p17		alpha-hemolysin, RTX-toxin; ehxC	Escherichia coli O157:H7 Sakai plasmid pO157 (EHEC)	VFDB R2	Toxin
+hlyA	pO157p18		alpha-hemolysin, RTX-toxin; ehxA	Escherichia coli O157:H7 Sakai plasmid pO157 (EHEC)	VFDB R2	Toxin
+hlyB	pO157p19		alpha-hemolysin, RTX-toxin; ehxB	Escherichia coli O157:H7 Sakai plasmid pO157 (EHEC)	VFDB R2	Toxin
+hlyD	pO157p20		alpha-hemolysin, RTX-toxin; ehxD	Escherichia coli O157:H7 Sakai plasmid pO157 (EHEC)	VFDB R2	Toxin
+hlyC	ECP_3826	YP_671698	alpha-hemolysin, RTX-toxin	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Toxin
+hlyA	ECP_3827	YP_671699	alpha-hemolysin, RTX-toxin	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Toxin
+hlyB	ECP_3828	YP_671700	alpha-hemolysin, RTX-toxin	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Toxin
+hlyD	ECP_3829	YP_671701	alpha-hemolysin, RTX-toxin	Escherichia coli O6:K15:H31 536 (UPEC)	manually	Toxin
+hlyE	b1182		hemolysin E/cytolysin A, alpha-helix-PFT (pore forming toxins); clyA	Escherichia coli K-12 MG1655 (NPEC)	VFDB R3	Toxin
+hlyF	APECO1_O1CoBM189	YP_001481345	putative avian hemolysin	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	manually	Toxin
+mchX		CAD56168	microcin H47	Escherichia coli CA46	manually	Toxin
+mchI		CAD56169	microcin H47 immunity protein	Escherichia coli CA46	manually	Toxin
+mchB		CAD56170	microcin H47 activity protein	Escherichia coli CA46	manually	Toxin
+mchC		CAD56171	microcin H47	Escherichia coli CA46	manually	Toxin
+mchD		CAD56172	microcin H47	Escherichia coli CA46	manually	Toxin
+mchE		CAD56173	microcin H47	Escherichia coli CA46	manually	Toxin
+mchF		CAD56174	microcin H47	Escherichia coli CA46	manually	Toxin
+mcmI		CAD56175	microcin M immunity protein	Escherichia coli CA46	manually	Toxin
+mcmA		CAD56176	microcin M	Escherichia coli CA46	manually	Toxin
+mcmM		CAD56177	microcin M activity protein	Escherichia coli CA46	manually	Toxin
+senB	UTI89_P030	YP_538629	enterotoxin TieB protein	Escherichia coli O18:K1:H7 UTI89 (UPEC)	manually	Toxin
+stcE	Z_L7031	AAC70099	secreted metalloprotease, surface-acting enzyme	Escherichia coli O157:H7 EDL933 (EHEC)	manually	Toxin
+stx1A	Z3343		shiga toxin 1 (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Toxin
+stx1B	Z3344		shiga toxin 1 (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Toxin
+stx1cA		CAC85553	shiga toxin 1c (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli O128:H2 3115/97	VFDB R3	Toxin
+stx1cB		CAC85554	shiga toxin 1c (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli O128:H2 3115/97	VFDB R3	Toxin
+stx2A	Z1464		shiga toxin 2 (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Toxin
+stx2B	Z1465		shiga toxin 2 (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli O157:H7 EDL933 (EHEC)	VFDB R3	Toxin
+stx2cA		ABU55302	shiga toxin 2c (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli O177:NM 06-5121	VFDB R3	Toxin
+stx2cB		ABU55303	shiga toxin 2c (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli O177:NM 06-5121	VFDB R3	Toxin
+stx2dA		AAM88302	shiga toxin 2d (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli O91:H21 B2F1	VFDB R3	Toxin
+stx2dB		AAM88303	shiga toxin 2d (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli O91:H21 B2F1	VFDB R3	Toxin
+stx2eA		BAE86851	shiga toxin 2e (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli ngsk-EC2e	VFDB R3	Toxin
+stx2eB		BAE86852	shiga toxin 2e (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli ngsk-EC2e	VFDB R3	Toxin
+stx2fA		BAE79483	shiga toxin 2f (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli O63:NM ngsk02014	VFDB R3	Toxin
+stx2fB		BAE79484	shiga toxin 2f (aka verotoxin, verocytotoxin, shiga-like toxin), RNA N-glycosidase	Escherichia coli O63:NM ngsk02014	VFDB R3	Toxin
+usp	ECP_0113		colicin-like Usp protein	Escherichia coli O6:K15:H31 536 (UPEC)	VFDB R2	Toxin
+bfpA	E2348_P1_003		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+bfpG	E2348_P1_004		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+bfpB	E2348_P1_005		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+bfpC	E2348_P1_006		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+bfpU	E2348_P1_007		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+bfpD	E2348_P1_008		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+bfpE	E2348_P1_009		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+bfpF	E2348_P1_010		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+bfpP	E2348_P1_011		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+bfpH	E2348_P1_012		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+bfpI	E2348_P1_013		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+bfpJ	E2348_P1_014		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+bfpK	E2348_P1_015		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+bfpL	E2348_P1_016		bundle-forming pili	Escherichia coli O127:H6 E2348/69 (EPEC)	VFDB R3	Type_4_pilus
+cofR		BAB62894	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+cofS		BAB62895	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+cofT		BAB62896	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+cofA		BAB62897	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+cofB		BAB62898	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+cofC		BAB62899	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+cofD		BAB62900	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+cofE		BAB62901	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+cofF		BAB62902	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+cofG		BAB62903	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+cofH		BAB62904	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+cofI		BAB62905	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+cofJ		BAB62906	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+cofP		BAB62907	colonization factor antigen III (CFA/III), coli surface antigen CS8	Escherichia coli 260-1	VFDB R3	Type_4_pilus
+lngX1		ABU50035	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngR		ABU50036	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngS		ABU50037	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngT		ABU50038	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngX2		ABU50039	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngA		ABU50040	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngB		ABU50041	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngC		ABU50042	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngD		ABU50043	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngE		ABU50044	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngF		ABU50045	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngG		ABU50046	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngH		ABU50047	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngI		ABU50048	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngJ		ABU50049	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+lngP		ABU50050	longus pili, coli surface antigen CS20	Escherichia coli O8:H9 E9034A (ETEC)	VFDB R3	Type_4_pilus
+etsA	APECO1_O1CoBM197	YP_001481352	ABC transporter	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	manually	Other_virulence_gene
+etsB	APECO1_O1CoBM198	YP_001481353	ABC transporter	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	manually	Other_virulence_gene
+etsC	APECO1_O1CoBM199	YP_001481354	ABC transporter	Escherichia coli O1:K1:H7 APEC O1 plasmid pAPEC-O1-ColBM (APEC)	manually	Other_virulence_gene
