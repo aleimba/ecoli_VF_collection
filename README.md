@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.56686.svg)](http://dx.doi.org/10.5281/zenodo.56686)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.56686.svg)](http://dx.doi.org//10.5281/zenodo.56686)
 
 ecoli_VF_collection
 ===================
@@ -144,9 +144,9 @@ The following resources alternatively include collections of *E. coli* VFs (some
 
 
 ## Citation
-For now cite the current version (***v0.1***) hosted on [zenodo](https://zenodo.org/):
+For now cite the current version (***v0.1***) hosted on [Zenodo](https://zenodo.org/):
 
-Leimbach A. 2016. *ecoli_VF_collection: v0.1* **Zenodo** <https://github.com/aleimba/ecoli_VF_collection> [10.5281/zenodo.56686](http://dx.doi.org/10.5281/zenodo.56686)
+**Leimbach A**. 2016. ecoli\_VF_collection: v0.1. Zenodo. <http://dx.doi.org/10.5281/zenodo.56686>.
 
 
 ## License
